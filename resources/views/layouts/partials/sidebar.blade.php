@@ -128,7 +128,7 @@
 
 <div class="panel panel-default corner-radius">
   <div class="panel-body text-center" style="color:#a5a5a5">
-    Power by <a href="https://github.com/summerblue/phphub5" target="_blank" style="color:inherit">PHPHub</a>
+    Power by <a href="https://github.com/Osub/phphub5" target="_blank" style="color:inherit">WEBstar</a>
   </div>
 </div>
 
